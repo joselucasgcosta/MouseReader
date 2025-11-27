@@ -38,4 +38,4 @@ python mouse.py
 
 ## Licença
 
-Este projeto é de uso interno.
+Este projeto é público, podendo ser clonado e/ou personalizado. Agradecemos a menção do autor.
